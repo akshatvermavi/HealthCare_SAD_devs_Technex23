@@ -38,9 +38,9 @@ SAD_Developers
 
  | Name                           |              Email ID                 |            Branch                  |   Registration No. |
  |--------------------------------|---------------------------------------|------------------------------------|--------------------|
- | **Shridhar Sarraf**        |     shridhar.sarraf.che19@itbhu.ac.in       |            CHE                      |      20190014      |
+ | **Shridhar Sarraf**        |     shridhar.sarraf.che19@itbhu.ac.in       |            CHE                      |      19045101      |
  | **Akshat verma**               |       akshat.20213027@mnnit.ac.in     |            ME                      |      20213027      |
- | **Sarvesh Dongare**               |     sarvesh.mdongare.che19@itbhu.ac.in       |            CHE                     |      20194245      |
+ | **Sarvesh Dongare**               |     sarvesh.mdongare.che19@itbhu.ac.in       |            CHE                     |      19045095      |
   | **Rajat Raghav**               |       rajatraghav9719@gmail.com     |            ME                     |      20213114     |
   
 
