@@ -11,8 +11,13 @@
 
 ## Project for HackItOut_TechNex'23
 
-## HealthCareForSad
-
+## HealthCareForSad 
+A Healthcare support app
+- Category of all the physical and mental disorders and info about them 
+- List of all the doctors around me using Geolocation API
+- Mediation and Yoga benefits and techniques🧘‍♀️
+- See availability and Book appointment with a Doctor
+- Call the Ambulance feature
 ## Abstract
 
 Healthcare Accessibility: Develop solutions that improve healthcare accessibility, such as increasing access to healthcare in rural or underserved areas, improving access to mental healthcare, and reducing barriers to healthcare for disadvantaged populations. This could include tools that enable remote consultations, provide virtual mental health support, and improve language translation services.
