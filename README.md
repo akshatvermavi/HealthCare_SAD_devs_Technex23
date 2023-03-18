@@ -31,6 +31,10 @@ Healthcare Accessibility: Develop solutions that improve healthcare accessibilit
   
   Ruby
   
+  Shell
+  
+  TypeScript
+  
 ## FrameWork
 
   ReactNative
