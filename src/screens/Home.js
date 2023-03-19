@@ -20,7 +20,7 @@ const Home = ({navigation}) => {
           <Image
             source={require('../images/banner.jpg')}
             style={styles.banner}
-          />
+          />  
           <Text style={styles.heading}>Select Category</Text>
           <View style={{marginTop: 20}}>
             <FlatList

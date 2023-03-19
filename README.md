@@ -15,7 +15,7 @@
 
 ## Abstract
 
-Healthcare Accessibility: Develop solutions that improve healthcare accessibility, such as increasing access to healthcare in rural or underserved areas, improving access to mental healthcare, and reducing barriers to healthcare for disadvantaged populations. This could include tools that enable remote consultations, provide virtual mental health support, and improve language translation services.
+Healthcare Accessibility :-> Develop solutions that improve healthcare accessibility, such as increasing access to healthcare in rural or underserved areas, improving access to mental healthcare, and reducing barriers to healthcare for disadvantaged populations. This could include tools that enable remote consultations, provide virtual mental health support, and improve language translation services.
 
 ## TechStack
 
