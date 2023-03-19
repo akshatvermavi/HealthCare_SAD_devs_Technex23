@@ -175,6 +175,7 @@ const BookAppointment = ({navigation}) => {
             txt={'Book Now'}
             status={true}
             onClick={() => {
+              // Post request
               navigation.navigate('Success');
             }}
           />
