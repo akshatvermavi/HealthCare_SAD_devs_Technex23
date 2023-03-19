@@ -2,7 +2,7 @@
 
 ## If you have a local clone, you can update it by running the following commands.
 
-  git branch -m dev main
+  git branch -m main3 main
 
   git fetch origin
   
