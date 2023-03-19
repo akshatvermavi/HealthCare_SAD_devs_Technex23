@@ -12,6 +12,9 @@
 
 ## Project for HackItOut_TechNex'23
 Download Link : [Here](https://github.com/akshatvermavi/HealthCare_SAD_devs_Technex23/releases/download/Publish/app-debug.apk) you can find the latest build release of our app updated at 8:55 am
+
+Demo video working of the MVP:
+https://www.youtube.com/shorts/FdlT95rPKJ8
 ## HealthCareForSad
 
 ## Abstract
