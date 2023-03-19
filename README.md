@@ -18,6 +18,13 @@ Download Link : [Here](https://github.com/akshatvermavi/HealthCare_SAD_devs_Tech
 
 Healthcare Accessibility :-> Develop solutions that improve healthcare accessibility, such as increasing access to healthcare in rural or underserved areas, improving access to mental healthcare, and reducing barriers to healthcare for disadvantaged populations. This could include tools that enable remote consultations, provide virtual mental health support, and improve language translation services.
 
+- We have created the MVP(Minimum Viable Product) of our idea by implementing the frontend using react native.
+- Used react-native-cli to build the app. Implemented a splash screen using setTimeout, designed skeleton of the home page which conatins : Categories of diseases(using a react native library called react-native-linear-gradient), List of Top Rated doctors
+- Made different screens using stack navigator.
+- Made the Book appointments page that let's us select our date, shows available slots, then enter patient's name and gender and then user can book appointment.
+- Made the Completed Appointments Page.
+- Made the call ambulance page and added a dialer using Platform and Linking.
+
 ## TechStack
 
   JavaScript
